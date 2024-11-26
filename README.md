@@ -1,1 +1,1 @@
-In this repository's some code done by me in practice purpose.
+In this repository, some code is done by me for practice purposes.
